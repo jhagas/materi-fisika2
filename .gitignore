@@ -1,0 +1,6 @@
+# latexmk build log file
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
