@@ -1,6 +1,6 @@
 \documentclass[twocolumn, 11pt]{article}%
 \usepackage{amsmath, amssymb, esint, gensymb, enumitem}
-\usepackage{graphicx, cuted, geometry, float, chemfig}
+\usepackage{graphicx, cuted, geometry, float, chemfig, hyperref}
 
 \geometry{
     a4paper,
@@ -48,12 +48,10 @@
         $a=$ Konstanta (tergantung jenis bahan)
 
         Jika dijadikan formula perbandingan menjadi seperti berikut
-        \begin{equation*}
-            \begin{split}
+            \begin{align*}
                 \frac{T(x)}{T(x_s)} &= \frac{ax}{ax_s}\\\\
                 T(x) &= T(x_s) \frac{x}{x_s}
-            \end{split}
-        \end{equation*}
+            \end{align*}
 
         Untuk menera termometer digunakan titik standar yang tetap yaitu titik tripel air
         $$[T(x_s) = 273.16\ K\ (kelvin)]$$
@@ -143,7 +141,7 @@
                L &= L_0 (1+\alpha \Delta T)\\
            \end{split} 
         \end{equation*}
-        Dimana $\alpha$ adalah koefisien muai panjang (tergantung material).
+        Dimana $\alpha$ adalah koefisien muai panjang (tergantung material).\\
 
         \textbf{Perubahan Luasan karena perubahan temperatur:}
 
@@ -155,7 +153,7 @@
         \end{equation*}
 
         dimana $\gamma$ adalah \textbf{koefisien muai luas} dan\\
-        $\gamma = 2 \alpha$.
+        $\gamma = 2 \alpha$. Pada umumnya, koefisien muai luas disimbolkan dengan $\beta$. Kita tidak boleh terjebak oleh simbol, karena tiap \textit{textbook} akan memiliki persimbolan yang berbeda-beda.\\
 
         \textbf{Perubahan volume karena perubahan temperatur:}
 
@@ -166,7 +164,10 @@
            \end{split} 
         \end{equation*}
 
-        dimana $\beta$ adalah koefisien muai volume/ruang dan $\beta = 3 \alpha$.
+        dimana $\beta$ adalah koefisien muai volume/ruang dan $\beta = 3 \alpha$. Pada umumnya, koefisien muai volum disimbolkan dengan $\gamma$. Kita tidak boleh terjebak oleh simbol, karena tiap \textit{textbook} akan memiliki persimbolan yang berbeda-beda.\\
+
+
+        Dari ketiga rumus pemuaian tersebut mempunyai rentang tertentu dimana persamaan tersebut dianggap benar. Contoh, jika logam dipanasi sampai melewati titik leburnya, maka pemuaian panjang tidak lagi berlaku. Atau dengan kata lain, \textbf{rumus tersebut HANYA berlaku sampai $\Delta T$ tertentu.}\\
 
         Aplikasi dari pemuaian adalah Bimetal dimana ada 2 logam yang dibuat berlapis, karena perbedaan koefisien muai panjang, maka jika ada perubahan temperatur, lempengan logam tersebut akan melengkung.
 
@@ -280,7 +281,8 @@
 
         \textbf{\underline{Penyelesaian}}
         \begin{enumerate}[label=\alph*)]
-            \item \includegraphics[width=190px]{8.png}
+            \item 
+                \includegraphics[width=190px]{8.png}
             \item Jumlah panas yang diberikan\\
                 \includegraphics[width=220px]{9.png}
                 Jika semua es berubah menjadi uap, maka panas yang dibutuhkan adalah:
@@ -291,10 +293,10 @@
         Kalorimeter adalah alat untuk menentukan kapasitas panas suatu zat.
         
         \begin{center}
-            \includegraphics[width=150px]{11.png}
-            \includegraphics[width=220px]{12.png}
-            \includegraphics[width=220px]{13.png}
-            \includegraphics[width=220px]{14.png}
+            \includegraphics[width=100px]{11.png}
+            \includegraphics[width=150px]{12.png}
+            \includegraphics[width=150px]{14.png}
+            \includegraphics[width=150px]{13.png}
         \end{center}
 
 \end{document}
