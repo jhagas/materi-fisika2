@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+<h1 align=center>MATERI FISIKA DASAR 2</h2>
 
-You can use the [editor on GitHub](https://github.com/jhagas/materi-fisika2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Materi dan soal [disini](https://github.com/jhagas/materi-fisika2) adalah catatan maintainer pada kuliah Fisika Dasar 2, Institut Teknologi Sepuluh Nopember.
+Ucapan terima kasih disampaikan kepada **Tim Dosen Fisika** di ITS.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> **NOTE:**
+Jika ada kesalahan penulisan,
+tambahan ataupun saran yang ingin disampaikan,
+silahkan mengisi form [disini](https://github.com/jhagas/materi-fisika2/issues/new/choose).
+Untuk selengkapnya, silahkan lihat halaman kontribusi [berikut ini]()
 
-### Markdown
+## Panduan Singkat
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Dengan mengklik atau mengetuk tautan materi dibawah, anda akan membuka halaman preview PDF dari Github,
+jika terjadi kesalahan maupun eror, maka anda bisa memuat ulang halaman.
 
-```markdown
-Syntax highlighted code block
+Anda juga bisa mendownload PDF tersebut seperti pada gambar dibawah ini.
 
-# Header 1
-## Header 2
-### Header 3
+![cara unduh](how_to_dl.png)
 
-- Bulleted
-- List
+Kode sumber dalam bentuk bahasa formatting LaTeX bisa dilihat [disini](https://github.com/jhagas/materi-fisika2).
 
-1. Numbered
-2. List
+## List Materi
 
-**Bold** and _Italic_ and `Code` text
+- **BAB 1**
+    - [Hukum Coulomb (Gaya Listrik)](https://github.com/jhagas/materi-fisika2/blob/main/BAB%201%20-%20Hukum%20Coulomb%20dan%20Medan%20Listrik/1%20Hukum%20Coulomb-Gaya%20Listrik/hukum_coulomb.pdf)
+    - [Vektor Satuan dan Medan Listrik](https://github.com/jhagas/materi-fisika2/blob/main/BAB%201%20-%20Hukum%20Coulomb%20dan%20Medan%20Listrik/2%20Vektor%20Gaya%20Listrik-Medan%20Listrik/vektor-medan_listrik.pdf)
+    - [Medan Listrik Oleh Muatan Yang Terdistribusi Kontinu](https://github.com/jhagas/materi-fisika2/blob/main/BAB%201%20-%20Hukum%20Coulomb%20dan%20Medan%20Listrik/3%20Medan%20Listik%20Oleh%20Muatan%20terdistribusi%20Kontinu/medan_listrik_kontinu.pdf)
+- ***EKSTRA (FISIKA III)***
+    - [Termometri dan Kalorimetri](https://github.com/jhagas/materi-fisika2/blob/main/EXTRA/Termometri%20dan%20Kalorimetri/termometri-kalorimetri.pdf)
 
-[Link](url) and ![Image](src)
-```
+## List Soal-Soal
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- [Asistensi 1 (Gaya dan Medan Listrik)](https://github.com/jhagas/materi-fisika2/blob/main/BAB%201%20-%20Hukum%20Coulomb%20dan%20Medan%20Listrik/4%20Asistensi%20Gaya%20dan%20Medan%20Listrik/soal_gaya_medan_listrik.pdf)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jhagas/materi-fisika2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
