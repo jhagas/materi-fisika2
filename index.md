@@ -3,15 +3,15 @@
 Materi dan soal disini adalah catatan maintainer pada kuliah Fisika Dasar 2, Institut Teknologi Sepuluh Nopember.
 Ucapan terima kasih disampaikan kepada **Tim Dosen Fisika** di ITS.
 
-> **NOTE:**
+> **PENTING:**
 Jika ada kesalahan penulisan,
 tambahan ataupun saran yang ingin disampaikan,
 silahkan mengisi form [disini](https://github.com/jhagas/materi-fisika2/issues/new/choose).
-Untuk selengkapnya, silahkan lihat halaman kontribusi [berikut ini]()
+Untuk selengkapnya, silahkan lihat halaman kontribusi [berikut ini](https://jhagas.github.io/materi-fisika2/kontribusi)
 
 ## Panduan Singkat
 
-Dengan mengklik atau mengetuk tautan materi dibawah, anda akan membuka halaman preview PDF dari Github,
+Saat membuka tautan dibawah, anda akan diarahkan menuju halaman preview PDF dari Github,
 jika terjadi kesalahan maupun eror, maka anda bisa memuat ulang halaman.
 
 Anda juga bisa mendownload PDF tersebut seperti pada gambar dibawah ini.
