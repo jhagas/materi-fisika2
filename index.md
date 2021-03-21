@@ -1,6 +1,6 @@
-<h1 align=center>MATERI FISIKA DASAR 2</h2>
+# MATERI FISIKA DASAR 2
 
-Materi dan soal [disini](https://github.com/jhagas/materi-fisika2) adalah catatan maintainer pada kuliah Fisika Dasar 2, Institut Teknologi Sepuluh Nopember.
+Materi dan soal disini adalah catatan maintainer pada kuliah Fisika Dasar 2, Institut Teknologi Sepuluh Nopember.
 Ucapan terima kasih disampaikan kepada **Tim Dosen Fisika** di ITS.
 
 > **NOTE:**
@@ -32,5 +32,4 @@ Kode sumber dalam bentuk bahasa formatting LaTeX bisa dilihat [disini](https://g
 ## List Soal-Soal
 
 - [Asistensi 1 (Gaya dan Medan Listrik)](https://github.com/jhagas/materi-fisika2/blob/main/BAB%201%20-%20Hukum%20Coulomb%20dan%20Medan%20Listrik/4%20Asistensi%20Gaya%20dan%20Medan%20Listrik/soal_gaya_medan_listrik.pdf)
-
 
