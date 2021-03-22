@@ -26,6 +26,7 @@ Kode sumber dalam bentuk bahasa formatting LaTeX bisa dilihat [disini](https://g
     - [Hukum Coulomb (Gaya Listrik)](https://github.com/jhagas/materi-fisika2/blob/main/BAB%201%20-%20Hukum%20Coulomb%20dan%20Medan%20Listrik/1%20Hukum%20Coulomb-Gaya%20Listrik/hukum_coulomb.pdf)
     - [Vektor Satuan dan Medan Listrik](https://github.com/jhagas/materi-fisika2/blob/main/BAB%201%20-%20Hukum%20Coulomb%20dan%20Medan%20Listrik/2%20Vektor%20Gaya%20Listrik-Medan%20Listrik/vektor-medan_listrik.pdf)
     - [Medan Listrik Oleh Muatan Yang Terdistribusi Kontinu](https://github.com/jhagas/materi-fisika2/blob/main/BAB%201%20-%20Hukum%20Coulomb%20dan%20Medan%20Listrik/3%20Medan%20Listik%20Oleh%20Muatan%20terdistribusi%20Kontinu/medan_listrik_kontinu.pdf)
+    - [Hukum Gauss](https://github.com/jhagas/materi-fisika2/raw/main/BAB%201%20-%20Hukum%20Coulomb%20dan%20Medan%20Listrik/5%20Hukum%20Gauss/hukum_gauss.pdf)
 - ***EKSTRA (FISIKA III)***
     - [Termometri dan Kalorimetri](https://github.com/jhagas/materi-fisika2/blob/main/EXTRA/Termometri%20dan%20Kalorimetri/termometri-kalorimetri.pdf)
 
