@@ -32,6 +32,7 @@ Kode sumber dalam bentuk bahasa formatting LaTeX bisa dilihat [disini](https://g
     - [Kapasitor](https://github.com/jhagas/materi-fisika2/raw/main/BAB%202%20-%20Potensial%20Listrik/2%20Kapasitor/kapasitor.pdf)
 - **BAB 3**
     - [Arus Listrik Searah](https://github.com/jhagas/materi-fisika2/raw/main/BAB%203%20-%20Arus%20Listrik/1%20Arus%20Listrik%20Searah/arus_dc.pdf)
+    - [Hukum Kirchhoff](https://github.com/jhagas/materi-fisika2/raw/main/BAB%203%20-%20Arus%20Listrik/2%20Hukum%20Kirchhoff/hk_kirchhoff.pdf)
 
 ---
 
