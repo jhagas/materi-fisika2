@@ -35,6 +35,7 @@ Kode sumber dalam bentuk bahasa formatting LaTeX bisa dilihat [disini](https://g
     - [Hukum Kirchhoff](https://github.com/jhagas/materi-fisika2/raw/main/BAB%203%20-%20Arus%20Listrik/2%20Hukum%20Kirchhoff/hk_kirchhoff.pdf)
 - **BAB 4**
     - [Medan Magnet Gaya Magnet](https://github.com/jhagas/materi-fisika2/raw/main/BAB%204%20-%20Medan%20Magnet/1%20Medan%20Magnet%20dan%20Gaya%20Magnet/medan-magnet.pdf)
+    - [Hitungan Medan Magnet](https://github.com/jhagas/materi-fisika2/raw/main/BAB%204%20-%20Medan%20Magnet/2%20Perhitungan%20Medan%20Magnet/medan-magnet-kabel.pdf)
     
 ---
 
