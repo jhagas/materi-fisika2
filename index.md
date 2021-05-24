@@ -36,6 +36,8 @@ Kode sumber dalam bentuk bahasa formatting LaTeX bisa dilihat [disini](https://g
 - **BAB 4**
     - [Medan Magnet Gaya Magnet](https://github.com/jhagas/materi-fisika2/raw/main/BAB%204%20-%20Medan%20Magnet/1%20Medan%20Magnet%20dan%20Gaya%20Magnet/medan-magnet.pdf)
     - [Hitungan Medan Magnet](https://github.com/jhagas/materi-fisika2/raw/main/BAB%204%20-%20Medan%20Magnet/2%20Perhitungan%20Medan%20Magnet/medan-magnet-kabel.pdf)
+- **BAB 5**
+    - [Hukum Faraday GGL Induksi](https://github.com/jhagas/materi-fisika2/raw/main/BAB%205%20-%20GGL%20Induksi/1%20Hukum%20Faraday/hukum_faraday_magnet.pdf)
     
 ---
 
