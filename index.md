@@ -39,6 +39,8 @@ Kode sumber dalam bentuk bahasa formatting LaTeX bisa dilihat [disini](https://g
 - **BAB 5**
     - [Hukum Faraday GGL Induksi](https://github.com/jhagas/materi-fisika2/raw/main/BAB%205%20-%20GGL%20Induksi/1%20Hukum%20Faraday/hukum_faraday_magnet.pdf)
     - [Induktansi](https://github.com/jhagas/materi-fisika2/raw/main/BAB%205%20-%20GGL%20Induksi/2%20Induktor/induktor.pdf)
+- **BAB 6**
+    - [Arus AC](https://github.com/jhagas/materi-fisika2/blob/main/Bab%206%20-%20Arus%20AC/1%20LCR/ac.pdf)
     
 ---
 
